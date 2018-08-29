@@ -1,2 +1,3 @@
 # databricks
-databricks REST API interface 
+
+This is is a pypi library to provide interface to databricks REST-API. 
